@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">New York Weather</string>
+    <string name="city_name">New York</string>
+    <string name="default_weather_main">Clouds</string>
+    <string name="default_weather_description">broken clouds</string>
+    <string name="weather_icon">Weather icon</string>
+    <string name="weather_sample">Sample weather · Add an OpenWeatherMap key for live updates.</string>
+    <string name="weather_loading">Loading current weather…</string>
+    <string name="weather_auth_error">OpenWeatherMap rejected the API key. Check that it is active.</string>
+    <string name="weather_city_error">OpenWeatherMap could not find New York.</string>
+    <string name="weather_rate_error">OpenWeatherMap rate limit reached. Trying again later.</string>
+    <string name="weather_server_error">Weather request failed (HTTP %1$d).</string>
+    <string name="weather_network_error">Could not reach OpenWeatherMap. Check your connection.</string>
+    <string name="weather_data_error">OpenWeatherMap returned unreadable or incomplete weather data.</string>
+    <string name="weather_previous">%1$s Showing the last update.</string>
+</resources>
